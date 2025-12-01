@@ -55,7 +55,7 @@
 
 ###
 
-<img align="left" height="200" src="https://s6.imgcdn.dev/YPPdOt.png"  />
+<img align="left" height="150" src="https://s6.imgcdn.dev/YPPdOt.png"  />
 
 ###
 
