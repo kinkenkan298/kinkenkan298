@@ -55,7 +55,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgflip.com/ad9nxa.gif"  />
+<img align="left" src="https://s6.imgcdn.dev/YPPdOt.png"  />
 
 ###
 
