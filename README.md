@@ -53,9 +53,6 @@
   </a>
 </div>
 
-###
-
-<img align="left" height="190" src="https://s6.imgcdn.dev/YPPdOt.png"  />
 
 ###
 
