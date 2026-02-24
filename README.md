@@ -15,4 +15,16 @@ Hi 👋! My name is Mochammd Rahmat Muttaqin and I from Indonesia
 ---
 [![](https://visitcount.itsvg.in/api?id=kinkenkan298&icon=0&color=0)](https://visitcount.itsvg.in)
 
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=e4spln3kqa4h4l93xx02a7ekz&count=5&unique=false" alt="Spotify recently played"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
