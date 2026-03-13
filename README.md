@@ -6,7 +6,7 @@
 ---
 
 I'm a programmer currently working in a company in the education sector,  where I contribute to building and maintaining web-based systems that support educational activities.
-And I realy strong interest in **web development and modern software tools**.
+And I really interest in **web development and modern software tools**.
 I enjoy building applications that are **clean, efficient, and user-focused** while continuously improving my skills in both frontend and backend development.
 
 Currently, I’m focusing on becoming a **Fullstack Web Developer** by deepening my understanding of modern web technologies and development workflows.
