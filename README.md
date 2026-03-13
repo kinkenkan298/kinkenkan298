@@ -1,5 +1,33 @@
 # 💫 About Me:
-Hi 👋! My name is Mochammd Rahmat Muttaqin and I from Indonesia
+# Hello, I'm Mochammad Rahmat Muttaqin 👋
+
+Welcome to my GitHub!
+
+I'm an **Informatics Engineering student** with a strong interest in **web development and modern software tools**. I enjoy building applications that are clean, practical, and efficient while continuously improving my skills in both frontend and backend development.
+
+Currently, I'm focusing on becoming a **Fullstack Web Developer** by exploring various technologies and frameworks, especially in the web ecosystem.
+
+## 🚀 What I'm Currently Doing
+
+* Learning and building projects with **Laravel, Livewire, Tailwind CSS, MERN Stack, Microservice, and More**
+* Exploring **JavaScript ecosystem and modern web development**
+* Improving my development workflow using **Linux, Neovim, and developer tools**
+
+## 💡 Interests
+
+* Web Development
+* Backend Systems
+* Developer Productivity Tools
+* Open Source Learning
+
+## 🤝 Collaboration
+
+I enjoy learning new technologies, experimenting with different tools, and collaborating with other developers. I'm always open to new ideas, feedback, and opportunities to grow as a developer.
+
+---
+
+⭐ Feel free to explore my repositories and follow my learning journey.
+
 
 
 ## 🌐 Socials:
