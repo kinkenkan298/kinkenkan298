@@ -3,10 +3,14 @@ Hi 👋! My name is Mochammd Rahmat Muttaqin and I from Indonesia
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kinturu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mochammad-rahmat-muttaqin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akin.soleh@gmail.com) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_kinturu/) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mochammad-rahmat-muttaqin) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1290584043896832054)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,discordjs,bootstrap,bash,discord,express,git,github,laravel,linux,mongodb,mysql,php,react,tailwindcss,vim,vite)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,html,css,discordjs,bootstrap,bash,express,git,github,laravel,linux,mongodb,mysql,php,react,tailwindcss,vim,vite" />
+  </a>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kinkenkan298&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
